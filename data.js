@@ -412,6 +412,13 @@ const emojiItems = [
         type: "tv",
         year: 2004
     },
+     {
+        title: "Maiden",
+        emojiImgs: "⛵👩🌊",
+        genres: ["adventure", "drama", "biography"],
+        type: "movie",
+        year: 2019
+    },
     {
         title: "Matrix",
         emojiImgs: "👨‍💻👩‍💻🔫🥋",
